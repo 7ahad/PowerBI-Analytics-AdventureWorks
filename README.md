@@ -16,9 +16,9 @@ The data model is structured as a star schema, which facilitates efficient analy
 Report Pages
 The PowerBI report provides 4 main pages:
 
-Overview dashboard: Depicting sales trends over time, and key information for executives. executive-dashboard
+Overview Dashboard: Depicting sales trends over time, and key information for executives.
 
-Map: Comparison of sales performance among different stores based on locations. map-report%20by%20location
+Sales Regiion: Comparison of sales performance among different stores based on locations.
 
 Customer: Identification of customer segments based on purchasing behavior. customer-analysis
 
