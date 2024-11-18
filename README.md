@@ -1,6 +1,6 @@
 # PowerBI-Analytics-AdventureWorks
 
-PowerBI-Analytics-OzStores
+PowerBI-Analytics-Adventure Works
 This PowerBI project analyses the performance of a fictional store chain with multiple stores across the World. The goal is to illustrate PowerBI's capabilities in analysing and reporting on sales data, sale insights, and key performance indicators.
 
 # Power BI report
